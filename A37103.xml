@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Duty of dissenters with respect to the late Act of indulgence of King William and Queen Mary wherein the several conditions required of them in that act are at large recited : collected together for the better information, benefit and ease of all dissenters : to which is prefixed a short epistle giving an account of the design of the book.</title>
+         </titleStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37103</idno><idno type="EEBO-CITATION">8695333</idno>
+  <idno type="VID">41557</idno>
+  <idno type="EEBO-PROQUEST">2264208212</idno>
+  
+            <idno type="STC">Wing D2911</idno>
+            <idno type="STC">ESTC R24929</idno>
+            <idno type="OCLC">08695333</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37103)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41557)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1258:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Duty of dissenters with respect to the late Act of indulgence of King William and Queen Mary wherein the several conditions required of them in that act are at large recited : collected together for the better information, benefit and ease of all dissenters : to which is prefixed a short epistle giving an account of the design of the book.</title>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by George Larkin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Containing, I. A summary of the said act, with the oaths and declarations thereby enjoyned to be taken and subscribed, II. The Thirty Nine Articles of the Church of England at large, III. The three creeds approved by the eighth article of the Church of England, viz. the Nicene Creed, the Creed of Athanasius, and that commonly called the Apostles Creed."</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Act of indulgence. --  1689.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41557:1"/>
+            <pb facs="tcp:41557:1"/>
+            <p>THE Duty of Dissenters, With respect to the late ACT of INDULGENCE OF King <hi>WILLIAM</hi> and Queen <hi>MARY:</hi> WHEREIN The several Conditions Required of them in that Act, are at large Recited.</p>
+            <p>CONTAINING
+<list>
+                  <item>
+                     <hi>I.</hi> A Summary of the said Act, with the Oaths and Declarations thereby Enjoyned to be Taken and Subscribed.</item>
+                  <item>
+                     <hi>II.</hi> The Thirty Nine Articles of the Church of <hi>England,</hi> at large.</item>
+                  <item>
+                     <hi>III.</hi> The Three Creeds Approved by the Eighth Article of the Church of <hi>England, viz.</hi> The Nicene Creed, The Creed of <hi>Athanasius,</hi> And that com<g ref="char:EOLhyphen"/>monly called, The Apostles Creed.</item>
+               </list>
+            </p>
+            <p>Collected together for the better Information, Benefit, and Ease of all Dissenters.</p>
+            <p>To which is prefixed a short Epistle, giving an Account of the Design of the Book.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licens'd,</hi> June the <hi>15th.</hi> 1689.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed and Sold by <hi>George Larkin,</hi> at the <hi>Two-Swans</hi> without <hi>Bishopsgate.</hi> MDCLXXXIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41557:2"/>
+            <pb facs="tcp:41557:2"/>
+            <head>THE EPISTLE TO THE READER, Giving a brief Account of the Design of this BOOK.</head>
+            <opener>
+               <salute>Christian Reader,</salute>
+            </opener>
+            <p>
+               <hi>IT having pleased the Almighty, in whose Hand the Hearts of Kings are, to incline their Majesties with their great Council of Parliament, upon certain Terms, to Establish Liberty by a Law, for Dissenting Protestants to Worship God, according as in their own Consciences they are perswaded is most agreeable to his Will. It cannot but be an acceptable Work to all sober persons to have</hi> those Terms <hi>Collected and presented to their view all at once, without the trouble of turning to the several Books wherein they are, being such as many, (especially of the meaner sort in the Country) cannot easily come at, and having them thus at once before them, may have their Hearts enlarged to praise God for so great a Mercy at so cheap a rate; which they would have been content to purchase at a far greater Price not many Years ago; and may thereby also be engaged in their several Stations Cordially to Serve His Majesty; Pray for his Welfare, and Promote his Interest, who as he has been our</hi> Glorious Deliverer from the <hi>Wild Boars</hi> who would have trod down the Vine, <hi>did not disdain</hi> (absit verbo invidia) to become a Solliciter for this Liberty, that the <hi>little Foxes</hi> might not spoil the Grapes.
+<pb facs="tcp:41557:3"/> May therefore the blessing of those who were ready to perish, come upon him.</p>
+            <p>
+               <hi>Thou mayest further by what is here presented, see the Center of our Ʋnity, and how all Protestants even in their sub-divisions agree in the whole Substantials of Religion, and therefore, what reason there is to live in Mutual Love: How minute those things are in themselves, which by the artifice of our Common Enemies have been made use of to divide and ruine us, and what sort of Friends to our Religion they are, who as they vigorously Opposed, do dayly Murmur against this healing Act.</hi>
+            </p>
+            <p>
+               <hi>There are these two or three things following, which deserve a Premonition, and then I shall leave you to peruse the Terms themselves.</hi>
+            </p>
+            <p n="1">1. <hi>That those Articles of the Church of</hi> England, <hi>to which Dissenters are not enjoyned to subscribe, are Printed in an Italick or different Character.</hi>
+            </p>
+            <p n="2">2. <hi>That whereas there is a Reflection in the 38th Article upon the Anabaptists; the Reader is not to conceive, that those who now in</hi> England <hi>go under that Name, are any ways concerned in it; seeing it was directed against those</hi> German <hi>Enthusiasts, the fol<g ref="char:EOLhyphen"/>lowers of</hi> John <hi>of</hi> Leyden, <hi>&amp;c. from whose Principles (that of Baptism excepted) the</hi> English <hi>Anabaptists do as much differ as any other Protestants.</hi>
+            </p>
+            <p n="3">3. <hi>That whereas some may scruple the Subscription of that Article in the Creed,</hi> of Christs descending into Hell, <hi>conceiving the same to be meant of a Local Descent; they are desired to take notice of the different sense which Protestants, and even those of the Church of</hi> England, <hi>understand it in,</hi> viz. <hi>Some that he really descended thither; others that his Body continued under the Power of Death, and in the State of the Dead, till the third Day; and a third sort that it is onely meant of his enduring the pains of Hell,</hi> viz. <hi>The Infinite Wrath of God, both in the Garden and upon the Cross: And seeing the</hi> Law-givers have not declared which is their sense, <hi>it is supposed to be left to every one to enjoy his own.</hi>
+            </p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="summary">
+            <pb n="1" facs="tcp:41557:3"/>
+            <head>THE <hi>Duty of Dissenters, &amp;c,</hi>
+            </head>
+            <p>IT having pleased Their Majesties and the High Court of Parliament in their great Wisdom and Goodness to give some Ease to their Dissenting Protestant Subjects, (who have a long time groaned under the heavy Burden of se<g ref="char:EOLhyphen"/>veral Penal Laws made in former Reigns against them, and in the late times Executed upon them with so much Rigour and Cruelty,) They have been Graciously pleased to make a late Act, Entituled, <hi>An Act for Exempting Their Majesties Pro<g ref="char:EOLhyphen"/>testant Subjects, Dissenting from the Church of</hi> England, <hi>from the Penalties of Certain Laws;</hi> by which Act the Dissenters (to their great satisfaction) may now Enjoy the Liberty of Wor<g ref="char:EOLhyphen"/>shipping God according to their Consciences. In Order where<g ref="char:EOLhyphen"/>unto, it is by the said Act provided nevertheless, That all those who intend to Enjoy the benefit thereof, do comply with the Terms and Conditions hereafter mentioned, <hi>viz.</hi>
+            </p>
+            <p n="1">I. That they take the Oaths mentioned in an Act, Intituled, <hi>An Act for removing, and preventing all Questions and Disputes, concerning the Assembling and Sitting of this present Parliament:</hi> Which Oaths are therein expressed, in these words following:</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do sincerely Promise and Swear, That I will be faithfull, and bear true Allegiance to their Majesties, King</hi> WILLIAM <hi>and Queen</hi> MARY: So help me God.</p>
+            <p>I A. B. <hi>do Swear, That I do from my heart abhor, detest and ab<g ref="char:EOLhyphen"/>jure, as Impious and Heretical, that Damnable Doctrine and Position, That Princes Excommunicated, or Deprived by the Pope, or any Authority of the See of</hi> Rome, <hi>may be Deposed or Murthered by their Subjects, or any other whatsoever; And I do declare; That no for<g ref="char:EOLhyphen"/>reign
+<pb n="2" facs="tcp:41557:4"/> Prince, Person, Prelate, State or Potentate hath, or ought to have any Power, Jurisdiction, Superiority, Preeminence or Authority, Ecclesiastical or Spiritual, within this Realm:</hi> So help me God.</p>
+            <p n="2">II. That they make and Subscribe the Declaration mentioned in a Statute made in the Thirtieth Year of the Reign of King <hi>CHARLES</hi> the Second, Entituled, <hi>An Act to prevent</hi> Papists <hi>from Sitting in either House of Parliament;</hi> which Declaration is expressed therein in these words following:</p>
+            <p>
+               <hi>I</hi> A. B. <hi>do solemnly and sincerely, in the presence of God, Profess, Testify, and Declare, That I do believe, That in the Sacrament of the Lord's Supper there is not any Transubstantiation of the Elements of Bread and Wine into the Body and Blood of Christ, at, or after the Consecration thereof by any person whatsoever; And that the Invoca<g ref="char:EOLhyphen"/>tion or Adoration of the Virgin</hi> Mary, <hi>or any other Saint, and the Sacrifice of the Mas<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, as they are now used in the Church of</hi> Rome, <hi>are Superstitious and Idolatrous. And I solemnly, in the presence of God, profess, testify and declare, That I do make this declaration, and every part thereof, in the plain and ordinary sence of the words read unto me, as they are commonly understood by English Protestants, with<g ref="char:EOLhyphen"/>out any Evasion, Equivocation, or Mental-reservation whatsoever; and without any Dispensation already granted me for this purpose by the Pope, or any Authority or Person whatsoever; or without any hope of any such Dispensation from any person or Authority whatsoever; or wi<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout thinking that I am, or can be acquitted before God or Man, or absolved of this Declaration, or any part thereof, although the Pope or any other person or persons, or Power whatsoever, should dispence with or Annul the same; or declare that it was null and void from the beginning.</hi>
+            </p>
+            <p>
+               <q>Which Oaths and Declaration, the Justices of the Peace, at the General Sessions of the Peace, to be held for the Coun<g ref="char:EOLhyphen"/>ty or place where such persons shall live, are hereby required to tender and administer to such persons as shall offer them<g ref="char:EOLhyphen"/>selves, to take, make and subscribe the same; and thereof to keep a Register. For entring of which, they are to pay but Six-pence; and for taking out a Certificate thereof, to pay Six-pence; and no more.</q>
+            </p>
+            <p>
+               <q>And that every Justice of the Peace may at any time here<g ref="char:EOLhyphen"/>after, require any person that goes to any Meeting, for Exercise of Religion, to make and subscribe the Declaration aforesaid;
+<pb n="3" facs="tcp:41557:4"/> and also to take the said Oaths, or Declaration of Fidelity herein after mentioned, in case such person scruples the ta<g ref="char:EOLhyphen"/>king of an Oath, and upon refusal thereof, to commit such person to Prison, with Bail or Mainprize: Which Declara<g ref="char:EOLhyphen"/>tion of Fidelity is expressed in these words, <hi>viz.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>I</hi> A. B. <hi>do sincerely promise, and solemnly declare, before God and the World, That I will be true and faithful to King</hi> WILLIAM <hi>and Queen</hi> MARY; <hi>and do solemnly profess and declare, That I do from my heart abhor, detest, and renounce, as impious and heretical, That damnable Doctrine and Position, That Princes Excommunicated, or deprived by the Pope, or any Authority of the See of</hi> Rome, <hi>may be Deposed or Murthered by their Subjects, or any other whatsoever. And I do declare, That no Forreign Prince, Person, Prelate, State, or Potentate hath, or ought to have any Power, Jurisdiction, Superi<g ref="char:EOLhyphen"/>ority, Preeminence, or Authority, Ecclesiastical or Spiritual, with<g ref="char:EOLhyphen"/>in this Realm.</hi>
+            </p>
+            <p>
+               <q>And shall Subscribe a Profession of their Christian belief in these words:</q>
+            </p>
+            <p>
+               <hi>I</hi> A. B. <hi>Profess Faith in God the the Father, and in Jesus Christ his Eternal Son, the true God, and in the holy Spirit, one God, blessed for evermore; And to acknowledge the Holy Scriptures of the Old and New Testament, to be given by Divine Inspiration.</hi>
+            </p>
+            <p>
+               <q>Which Declarations and Subscription shall be made and Entered of Record, at the General or Quarter Sessions of the Peace, for the County, City, or place, where every such Per<g ref="char:EOLhyphen"/>son shall then reside.</q>
+            </p>
+            <p>
+               <q>Provided, That such who refuse to take the Oaths, when ten<g ref="char:EOLhyphen"/>dered to them, shall not be admitted to make and subscribe the two <hi>Declarations aforesaid,</hi> tho required thereto, unless such Persons can within Thirty one Days, after such tender of the Declarations to him, produce two sufficient Protestant Wit<g ref="char:EOLhyphen"/>nesses to Testifie upon Oath, that they believe him to be a Pro<g ref="char:EOLhyphen"/>testant Dissenter, or a Certificate under the Hands of four Pro<g ref="char:EOLhyphen"/>testants, who are conformable to the Church of <hi>England,</hi> and have taken the Oaths, and subscribed the Declaration above<g ref="char:EOLhyphen"/>mentioned, and shall also produce a Certificate, under the Hands and Seal of six or more sufficient Men of the Congregation to which he belongs, owning him for one of them.</q>
+            </p>
+            <pb n="4" facs="tcp:41557:5"/>
+            <p> Provided also, that until such Certificates be produced, the Justice of the Peace is required to take a Recognizance with two Sureties in the penal Sum of Fifty pounds for his producing the same; or if he cannot give such Security, to commit him to Pri<g ref="char:EOLhyphen"/>son, there to remain until he can.</p>
+            <p>Provided always, That if any Assembly of Persons dissent<g ref="char:EOLhyphen"/>ing from the Church of <hi>England,</hi> shall be had in any place for Religious Worship with the Doors locked, barred, or bolted, during any time of such Meeting together, all and every Person that shall come to, and be at such Meeting, shall not receive any Benefit from this Law, notwithstanding his taking the Oaths, and Subscribing the Declaration aforesaid.</p>
+            <p>Provided, That nothing in this Act be construed to exempt any Persons from paying of Tythes, or any other Duties to the Church or Minister.</p>
+            <p>Provided, That the Laws made for frequenting Divine Ser<g ref="char:EOLhyphen"/>vice, be in force against all Persons that offend against them, except such Persons come to some Congregation of Worship, Allowed of by this Act.</p>
+            <p>Provided always, That no Congregation or Assembly for Religious Worship shall be permitted, or allowed by this Act, until the place of such Meeting be certified to the Bishop of the Diocess, or to the Arch-Deacon of that Arch-Deaconry, or to the Justices of the Peace at the General or Quarter Sessions of the Peace, for the County, City or Place, in which such Meet<g ref="char:EOLhyphen"/>ing shall be held, which is there to be Registred, and a Certificate to be delivered for Six-pence, when demanded.</p>
+            <p>
+               <hi>Lastly,</hi> There is required of every Preacher over and above the aforesaid Injunctions, That he do declare his Approbation of, and Subscribe the Articles of Religion, mentioned in the Statute made in the Thirteenth Year of the Reign of the late Queen <hi>Elizabeth,</hi> except the Thirty fourth, about the Traditions of the Church; the Thirty fifth, concerning Homilies; and the Thirty sixth, of Consecration of Bishops and Ministers; and these words of the Twentieth Article, <hi>viz. The Church hath Power to Decree Rights or Ceremonies, and Authority in Controver<g ref="char:EOLhyphen"/>sies of Faith. And yet</hi>—And those who scruple the Baptiz<g ref="char:EOLhyphen"/>ing of Infants, may except part of the Twenty seventh Article, <hi>Touching Infant Baptism.</hi>
+            </p>
+         </div>
+         <div type="articles">
+            <pb n="5" facs="tcp:41557:5"/>
+            <head>The Thirty Nine Articles of Religion, which Dissenters are obliged to Approve of, and Subscribe unto, except part of the Twentieth, the Thirty fourth, Thirty fifth, and Thirty sixth Articles, which are here put in a different Character.</head>
+            <div n="1" type="article">
+               <head>1. <hi>Of Faith in the Holy Trinity.</hi>
+               </head>
+               <p>THere is but one living and true God, everlasting, without Body, Parts, or Passions; of Infinite Power, Wisdom, and Goodness; the Maker and Preserver of all things both visible and invisible. And in unity of this Godhead there be three Persons, of one Sub<g ref="char:EOLhyphen"/>stance, Power, and Eternity; the Father, the Son, and the Holy Ghost.</p>
+            </div>
+            <div n="2" type="article">
+               <head>2. <hi>Of the Word or Son of God, which was made Very Man.</hi>
+               </head>
+               <p>THe Son, which is the Word of the Father, begotten from everlasting of the Father, the very and Eternal God, of one substance with the Father, took mans nature in the Womb of the blessed Virgin, of her Substance: so that two whole and perfect natures, that is to say, the Godhead and Manhood, were joyned together in one person, never to be di<g ref="char:EOLhyphen"/>vided, whereof is one Christ, very God and very Man, who truly suffered, was crucified, dead and buried, to reconcile his Fa<g ref="char:EOLhyphen"/>ther
+<pb n="6" facs="tcp:41557:6"/> to us, and to be a sacrifice, not only for original guilt, but also for actual sins of men.</p>
+            </div>
+            <div n="3" type="article">
+               <head>3. <hi>Of the going down of Christ into Hell.</hi>
+               </head>
+               <p>AS Christ died for us, and was Buried: so also is it to be be<g ref="char:EOLhyphen"/>lieved, that he went down into hell.</p>
+            </div>
+            <div n="4" type="article">
+               <head>4. <hi>Of the Resurrection of Christ.</hi>
+               </head>
+               <p>CHrist did truly rise again from death, and took again his bo<g ref="char:EOLhyphen"/>dy, with flesh, bones, and all things appertaining to the perfection of mans nature, wherewith he ascended into heaven, and there sitteth, until he return to judge all men at the last day.</p>
+            </div>
+            <div n="5" type="article">
+               <head>5. <hi>Of the Holy Ghost.</hi>
+               </head>
+               <p>THe Holy Ghost, proceeding from the Father and the Son, is of one Substance, Majesty and Glory, with the Father and the Son, very and eternal God.</p>
+            </div>
+            <div n="6" type="article">
+               <head>6. <hi>Of the sufficiency of the holy Scriptures for Salvation.</hi>
+               </head>
+               <p>HOly Scripture containeth all things necessary to salvation, so that whatsoever is not read therein, nor may be pro<g ref="char:EOLhyphen"/>ved thereby, is not to be required of any man, that it should be believed as an Article of the Faith, or be thought requisite or necessary to salvation. In the name of the holy Scripture, we do understand those Canonical Books of the Old and New Testa<g ref="char:EOLhyphen"/>ment, of whose authority was never any doubt in the Church.</p>
+               <list>
+                  <head>¶ <hi>Of the Names and Number of the Canonical Books.</hi>
+                  </head>
+                  <item>GEnesis.</item>
+                  <item>Exodus.</item>
+                  <item>Leviticus.</item>
+                  <item>Numbers.</item>
+                  <item>Deuteronomy.</item>
+                  <item>Joshua.</item>
+                  <pb n="7" facs="tcp:41557:6"/>
+                  <item> Judges.</item>
+                  <item>Ruth.</item>
+                  <item>The 1. Book of Samuel.</item>
+                  <item>The 2. Book of Samuel.</item>
+                  <item>The 1. Book of Kings.</item>
+                  <item>The 2. Book of Kings.</item>
+                  <item>The 1. Book of Chronicles.</item>
+                  <item>The 2. Book of Chronicles.</item>
+                  <item>The 1. Book of Esdras.</item>
+                  <item>The 2. Book of Esdras.</item>
+                  <item>The Book of Hester.</item>
+                  <item>The Book of Job.</item>
+                  <item>The Psalms.</item>
+                  <item>The Proverbs.</item>
+                  <item>Ecclesiastes, or Preacher.</item>
+                  <item>Cantica, or Songs of Solomon.</item>
+                  <item>4 Prophets the greater.</item>
+                  <item>12 Prophets the less.</item>
+               </list>
+               <p>And the other Books (as <hi>Hierome</hi> saith) the Church doth read for example of life and instruction of manners: but yet doth it not apply them to establish any Doctrine. Such are these following.</p>
+               <list>
+                  <item>The 3. Book of Esdras.</item>
+                  <item>The 4. Book of Esdras.</item>
+                  <item>The Book of Tobias.</item>
+                  <item>The Book of Judeth.</item>
+                  <item>The rest of the Book of Hester.</item>
+                  <item>The Book of Wisdom.</item>
+                  <item>Jesus the son of Sirach.</item>
+                  <item>Baruch the Prophet.</item>
+                  <item>The Song of the three Children.</item>
+                  <item>The Story of Susanna.</item>
+                  <item>Of Bell and the Dragon.</item>
+                  <item>The Prayer of Manasses.</item>
+                  <item>The 1. Book of Maccabees.</item>
+                  <item>The 2. Book of Maccabees.</item>
+               </list>
+               <p>All the Books of the New Testament, as they are commonly received, we do receive, and account them Canonical.</p>
+            </div>
+            <div n="7" type="article">
+               <pb n="8" facs="tcp:41557:7"/>
+               <head>7. <hi>Of the Old Testament.</hi>
+               </head>
+               <p>THe Old Testament is not contrary to the New: for both in the Old and New Testament, everlasting life is offered to man<g ref="char:EOLhyphen"/>kind by Christ, who is the onely Mediatour between God and man, being both God and Man. Wherefore they are not to be heard, which feign that the old Fathers did look onely on transitory pro<g ref="char:EOLhyphen"/>mises. Although the Law given from God by Moses, as touch<g ref="char:EOLhyphen"/>ing Ceremonies and Rites, do not bind Christian men, nor the ci<g ref="char:EOLhyphen"/>vil Precepts thereof ought of necessity to be received in any Com<g ref="char:EOLhyphen"/>mon-wealth: yet notwithstanding, no Christan man whatsoever, is free from the obedience of the Commandments which are called Moral.</p>
+            </div>
+            <div n="8" type="article">
+               <head>8. <hi>Of the Three Creeds.</hi>
+               </head>
+               <p>THe three Creeds, <note n="*" place="margin">See these Creeds at large after the Articles.</note> Nice Creed, Athanasius Creed, and that which is commonly called the Apostles Creed, ought througly to be received and believed: for they may be proved by most certain warrants of holy Scripture.</p>
+            </div>
+            <div n="9" type="article">
+               <head>9. <hi>Of Original Birth or Sin.</hi>
+               </head>
+               <p>ORiginal Sin standeth not in the following of <hi>Adam</hi> (as the Pe<g ref="char:EOLhyphen"/>lagians do vainly talk) but it is the fault and corruption of the nature of every Man, that naturally is ingendred of the off<g ref="char:EOLhyphen"/>spring of <hi>Adam,</hi> whereby man is very far gone from original Righteousness, and is of his own nature enclined to evil, so that the flesh lusteth alwayes contrary to the Spirit; and therefore in every person born into this world, it deserveth Gods wrath and damnation. And this infection of nature doth remain; yea, in them that are regenerated, whereby the lust of the flesh, called in Greek, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> which some do expound the wisdom, some sensuality, some the affection, some the desire of the flesh, is not subject to the law of God. And although there is no con<g ref="char:EOLhyphen"/>demnation for them that believe and are baptized, yet the Apostle doth confess, that concupiscence and lust hath of it self the nature of sin.</p>
+            </div>
+            <div n="10" type="article">
+               <pb n="9" facs="tcp:41557:7"/>
+               <head>10. <hi>Of Free-will.</hi>
+               </head>
+               <p>THe condition of man after the fall of <hi>Adam,</hi> is such, That he cannot turn and prepare himself by his own natural strength and good works to faith and calling upon God: where<g ref="char:EOLhyphen"/>fore we have no power to do good works pleasant and acceptable to God without the grace of God by Christ preventing us, that we may have a good will, and working with us when we have that good will.</p>
+            </div>
+            <div n="11" type="article">
+               <head>11. <hi>Of the Justification of man.</hi>
+               </head>
+               <p>VVE are accounted righteous before God, onely for the me<g ref="char:EOLhyphen"/>rit of our Lord and Saviour Jesus Christ by Faith, and not for our own works, or deservings. Wherefore, that we are justified by faith onely, is a most wholsom Doctrine, &amp; very full of comfort, as more largely is expressed in the Homily of Justification.</p>
+            </div>
+            <div n="12" type="article">
+               <head>12. <hi>Of Good Works.</hi>
+               </head>
+               <p>ALbeit that good works, which are the fruits of faith, and follow after Justification, cannot put away our sins, and endure the severity of Gods Judgment, yet are they pleasing and acceptable to God in Christ, and do spring out necessarily of a true and lively faith, insomuch that by them a lively faith may be as evidently known, as a tree discerned by the fruit.</p>
+            </div>
+            <div n="13" type="article">
+               <head>13. <hi>Of works before Justification.</hi>
+               </head>
+               <p>VVOrks done before the grace of Christ, and the inspira<g ref="char:EOLhyphen"/>tion of his Spirit, are not pleasant to God, foras<g ref="char:EOLhyphen"/>much as they spring not of Faith in Jesus Christ, neither do they make men meet to receive grace, or (as the School-Authors say) deserve grace of congruity: yea, rather for that they are not done as God hath willed and commanded them to be done, we doubt not but they have the nature of sin.</p>
+            </div>
+            <div n="14" type="article">
+               <pb n="10" facs="tcp:41557:8"/>
+               <head>14. <hi>Of works of Supererogation.</hi>
+               </head>
+               <p>VOluntary Works besides, over and above Gods Command<g ref="char:EOLhyphen"/>ments, which they call Works of Supererogation, can<g ref="char:EOLhyphen"/>not be taught without arrogancy and impiety. For by them men do declare, That they do not onely render unto God as much as they are bound to do, but that they do more for his sake, then of bounden duty is required: whereas Christ saith plainly, When ye have done all that are commanded to you, say, We are unpro<g ref="char:EOLhyphen"/>fitable servants.</p>
+            </div>
+            <div n="15" type="article">
+               <head>15. <hi>Of Christ alone without sin.</hi>
+               </head>
+               <p>CHrist in the truth of our nature, was like unto us in all things (sin onely except) from which he was clearly void, both in his flesh, and in Spirit. He came to be a Lamb without spot, who by sacrifice of himself once made, should take away the sins of the world: and sin (as <hi>St. John</hi> saith) was not in him. But all we the rest (although baptized, and born again in Christ) yet offend in many things, and if we say we have no sin, we deceive our selves, and the truth is not in us.</p>
+            </div>
+            <div n="16" type="article">
+               <head>16. <hi>Of Sin after Baptism.</hi>
+               </head>
+               <p>NOt every deadly sin willingly committed after Baptism, is sin against the holy Ghost, and unpardonable. Wherefore the grant of repentance is not to be denied to such as fall into sin after Baptism. After we have received the holy Ghost, we may depart from grace given, and fall into sin, and by the grace of God (we may) arise again, and amend our lives. And therefore they are to be condemned, which say they can no more sin as long as they live here, to deny the place of forgiveness to such as truly repent.</p>
+            </div>
+            <div n="17" type="article">
+               <head>17. <hi>Of Predestination and Election.</hi>
+               </head>
+               <p>PRedestination to life, is the everlasting purpose of God, where<g ref="char:EOLhyphen"/>by (before the foundations of the world were laid) he hath
+<pb n="11" facs="tcp:41557:8"/> constantly Decreed by his Counsel, secret to us, to deliver from curse and damnation, those whom he hath chosen in Christ out of mankind, and to bring them by Christ to everlasting salvation as vessels made to honour. Wherefore they which be endued with so excellent a benefit of God, be called according to Gods purpose by his Spirit working in due season: they through grace obey the calling: they be justified freely: they be made sons of God by adoption: they be made like the image of his onely begotten Son Jesus Christ: they walk religiously in good works, and at length by Gods mercy they attain to everlasting felicity.</p>
+               <p>As the godly consideration of Predestination and our Election in Christ, is full of sweet, pleasant and unspeakable comfort to godly persons, and such as feel in themselves the working of the Spirit of Christ, mortifying the works of the flesh, and their earthly members, and drawing up their mind to high and heaven<g ref="char:EOLhyphen"/>ly things, as well because it doth greatly establish and confirm their faith of eternal salvation, to be enjoyed through Christ, as because it doth fervently kindle their love towards God: So, for curious and carnal persons lacking the Spirit of Christ, to have continually before their eyes the sentence of Gods Predesti<g ref="char:EOLhyphen"/>nation, is a most dangerous downfall, whereby the devil doth thrust them either into desperation, or into wretchlesness of most unclean living, no less perilous then desperation.</p>
+               <p>Furthermore, we must receive Gods promises in such wise as they be generally set forth to us in holy Scripture: and in our doings, that will of God is to be followed, which we have ex<g ref="char:EOLhyphen"/>presly declared unto us in the Word of God.</p>
+            </div>
+            <div n="18" type="article">
+               <head>18. <hi>Of obtaining Eternal Salvation only by the Name of Christ.</hi>
+               </head>
+               <p>THey also are to be had Accursed, that presume to say, that every man shall be Saved by the Law or Sect which he professeth, so that he be diligent to frame his Life according to that Law and the light of Nature. For holy Scripture doth set out unto us only the Name of Jesus Christ, whereby Men must be Saved.</p>
+            </div>
+            <div n="19" type="article">
+               <pb n="12" facs="tcp:41557:9"/>
+               <head>19. <hi>Of the Church.</hi>
+               </head>
+               <p>THe visible Church of Christ is a Congregation of faithfull men, in the which the pure Word of God is preached, and the Sacraments be duly Ministred, according to Christs Ordinance, in all those things that of necessity are requisite to the same.</p>
+               <p>As the Church of Jerusalem, Alexandria and Antioch have er<g ref="char:EOLhyphen"/>red: So also the Church of Rome hath erred, not onely in their living and manner of Ceremonies, but also in matters of Faith.</p>
+            </div>
+            <div n="20" type="article">
+               <head>20. <hi>Of the Authority of the Church.</hi>
+               </head>
+               <p>
+                  <hi>THe Church hath power to decree Rites or Ceremonies, and Au<g ref="char:EOLhyphen"/>thority in Controversies of Faith: And yet</hi> [<note n="*" place="margin">To this first Paragraph, Dissenters are not Obliged to Subscribe.</note>] it is not lawful for the Church to ordain any thing that is contrary to Gods Word written, neither may it so expound one place of Scri<g ref="char:EOLhyphen"/>pture, that it be repugnant to another. Wherefore although the Church be a Witness and a Keeper of Holy Writ, yet as it ought not to Decree any thing against the same, so besides the same ought it not to enforce any thing to be believed for neces<g ref="char:EOLhyphen"/>sity of Salvation.</p>
+            </div>
+            <div n="21" type="article">
+               <head>21. <hi>Of the Authority of General Councils.</hi>
+               </head>
+               <p>GEneral Councils may not be gathered together without the Commandment and Will of Princes. And when they be gathered together (forasmuch as they be an Assembly of men, whereof all be not governed with the Spirit and Word of God) they may err, and sometime have erred, even in things per<g ref="char:EOLhyphen"/>taining unto God. Wherefore things ordained by them as ne<g ref="char:EOLhyphen"/>cessary to salvation, have neither strength nor authority, unless it may be declared that they be taken out of Holy Scripture.</p>
+            </div>
+            <div n="22" type="article">
+               <head>22. <hi>Of Purgatory.</hi>
+               </head>
+               <p>THe Romish Doctrine concerning Purgatory, Pardons, Wor<g ref="char:EOLhyphen"/>shiping and Adoration, as well of Images, as of Re<g ref="char:EOLhyphen"/>liques,
+<pb n="13" facs="tcp:41557:9"/> and also Invocation of Saints; is a fond thing, vainly invented, and grounded upon no warranty of Scripture, but rather repugnant to the Word of God.</p>
+            </div>
+            <div n="23" type="article">
+               <head>23. <hi>Of Ministring in the Congregation.</hi>
+               </head>
+               <p>IT is not lawful for any man to take upon him the Office of Publick Preaching, or Ministring the Saeraments in the Con<g ref="char:EOLhyphen"/>gregation, before he be lawfully called, and sent to execute the same. And those we ought to judge lawfully called and sent, which be chosen and called to this Work by men who have publick Authority given unto them in the Congregation, to call and send Ministers into the Lords Vineyard.</p>
+            </div>
+            <div n="24" type="article">
+               <head>24. <hi>Of speaking in the Congregation, in such a Tongue as the people understandeth.</hi>
+               </head>
+               <p>IT is a thing plainly repugnant to the Word of God, and the custom of the primitive Church, to have publick prayer in the Church, or to Minister the Scraments in a Tongue not understood of the People.</p>
+            </div>
+            <div n="25" type="article">
+               <head>25. <hi>Of the Sacraments.</hi>
+               </head>
+               <p>SAcraments ordained of Christ, be not only badges or tokens of Christian Mens Profession: but rather they be certain sure Witnesses, and effectual signs of Grace, and Gods good Will towards us, by the which he doth work invisibly in us, and doth not only quicken but also strengthen and confirm our faith in him.</p>
+               <p>There are two Sacraments ordained of Christ our Lord in the Gospel, that is to say, Baptism and the Supper of the Lord.</p>
+               <p>Those five commonly called Sacraments, that is to say, Con<g ref="char:EOLhyphen"/>firmation, Penance, Orders, Matrimony, and Extreme Unction, are not to be counted for Sacraments of the Gospel, being such as have grown, partly of the corrupt following of the Apostles, partly are states of life allowed in the Scriptures: but yet have not like nature of Sacraments with Baptism and the Lords Supper, for that they have not any visible Sign or Ceremony ordained of God.</p>
+               <pb n="14" facs="tcp:41557:10"/>
+               <p> The Sacraments were not ordained of Christ to be gazed upon, or to be carried about, but that we should duly use them. And in such only as worthily receive the same, they have a wholesome effect or operation: but they that receive them unworthily, pur<g ref="char:EOLhyphen"/>chase to themselves damnation, as St. <hi>Paul</hi> saith.</p>
+            </div>
+            <div n="26" type="article">
+               <head>26. <hi>Of the unworthiness of the Ministers, which hinder not the effects of the Sacraments.</hi>
+               </head>
+               <p>ALthough in the visible Church the evil be ever mingled with the good, and sometime the evil have chief Authority in the Ministration of the Word and Sacraments: yet forasmuch as they do not the same in their own name, but in Christs, and do Minister by his Commission and Authority, we may use their Ministry, both in hearing the Word of God, and in the receiv<g ref="char:EOLhyphen"/>ing of the Sacraments. Neither is the effect of Christs ordinance taken away by their wickedness, nor the grace of Gods gifts diminished from such, as by faith, and rightly do receive the Sacraments Ministred unto them, which be effectual, because of Christs Institution and Promise, although they be Ministred by evil Men.</p>
+               <p>Nevertheless, it appertaineth to the Discipline of the Church, that enquiry be made of evil Ministers, and that they be accused by those that have knowledge of their offences: and finally be<g ref="char:EOLhyphen"/>ing found guilty, by just judgment be deposed.</p>
+            </div>
+            <div n="27" type="article">
+               <head>27. <hi>Of Baptism.</hi>
+               </head>
+               <p>BAptism is not onely a Sign of Profession, and Mark of Diffe<g ref="char:EOLhyphen"/>rence, whereby Christian Men are discerned from others that be not Christened: but it is also a Sign of Regeneration or New Birth, whereby, as by an instrument, they that receive Baptism rightly, are grafted into the Church: the promises of the forgiveness of Sin, and of our adoption to be the Sons of God, by the holy Ghost, are visibly Signed and Sealed: Faith is confirmed, and Grace increased by vertue of Prayer unto God. <note n="*" place="margin">Baptists are not obliged to Subscribe this last Paragraph.</note>
+                  <hi>The Baptism of young Children is in any wise to be retain<g ref="char:EOLhyphen"/>ed in the Church, as most agreeable with the Institution of Christ.</hi>
+               </p>
+            </div>
+            <div n="28" type="article">
+               <pb n="15" facs="tcp:41557:10"/>
+               <head>28. <hi>Of the Lords Supper.</hi>
+               </head>
+               <p>THe Supper of the Lord is not onely a sign of the love that Christians ought to have among themselves one to another: but rather it is a Sacrament of our Redemption by Christs death: Insomuch that to such as rightly, worthily, and with faith re<g ref="char:EOLhyphen"/>ceive the same, the Bread which we break, is a partaking of the Body of Christ: and likewise the Cup of blessing, is a partaking of the Blood of Christ.</p>
+               <p>Transubstantiation (or the change of the substance of Bread and Wine) in the Supper of the Lord, cannot be proved by holy Writ: but it is repugnant to the plain words of Scripture, overthroweth the nature of a Sacrament, and hath given occasion to many superstitions.</p>
+               <p>The Body of Christ is given, taken, and eaten in the Supper onely after an heavenly and spiritual manner. And the mean whereby the Body of Christ is received and eaten in the Supper, is Faith.</p>
+               <p>The Sacrament of the Lords Supper was not by Christs ordi<g ref="char:EOLhyphen"/>nance reserved, carried about, lifted up, or worshipped.</p>
+            </div>
+            <div n="29" type="article">
+               <head>29. <hi>Of the wicked which eat not the Body of Christ in the use of the Lords Supper.</hi>
+               </head>
+               <p>THe wicked and such as be void of a lively faith, although they do carnally and visibly press with their Teeth (as St. <hi>Augustine</hi> saith) the Sacrament of the Body and Blood of Christ: yet in no wise are they partakers of Christ, but rather to their condemnation do eat and drink the Sign or Sacrament of so great a thing.</p>
+            </div>
+            <div n="30" type="article">
+               <head>30. <hi>Of both kinds.</hi>
+               </head>
+               <p>THe Cup of the Lord is not to be denyed to the Lay people: For both the parts of the Lords Sacrament, by Christs ordinance and commandment, ought to be Ministred to all Christian Men alike.</p>
+            </div>
+            <div n="31" type="article">
+               <pb n="16" facs="tcp:41557:11"/>
+               <head>31. <hi>Of the one Oblation of Christ finished upon the Cross.</hi>
+               </head>
+               <p>THe Offering of Christ once made, is that perfect Redemp<g ref="char:EOLhyphen"/>tion, Propitiation, and Satisfaction for all the sins of the whole World, both Original and Actual, and there is none other satisfaction for sin, but that alone. Wherefore the Sacrifices of Masses, in the which it was commonly said, that the Priest did offer Christ for the quick and the dead, to have Remission of pain or guilt, were Blasphemous Fables, and dangerous deceits.</p>
+            </div>
+            <div n="32" type="article">
+               <head>32. <hi>Of the Marriage of Priests.</hi>
+               </head>
+               <p>BIshops, Priests, and Deacons, are not commanded by Gods Law, either to vow the estate of single life, or to abstain from Marriage: Therefore it is lawful for them, as for all other Christian Men, to Marry at their own discretion, as they shall judge the same to serve better to godliness.</p>
+            </div>
+            <div n="33" type="article">
+               <head>33. <hi>Of Excommunicate persons, how they are to be avoided.</hi>
+               </head>
+               <p>THat person which by open denunciation of the Church, is rightly cut off from the unity of the Church, and Excom<g ref="char:EOLhyphen"/>municated, ought to be taken of the whole multitude of the faithful, as an Heathen and Publican, until he be openly re<g ref="char:EOLhyphen"/>conciled by Penance, and received into the Church by a Judge that hath Authority thereunto.</p>
+            </div>
+            <div n="34" type="article">
+               <head>34. Of the Traditions of the Church.</head>
+               <p>
+                  <hi>IT is not necessary that Traditions and Ceremonies be in all places one, or utterly like; for at all times they have been divers, and may be changed according to the diversity of Countries, Times, and Mens Manners, so that nothing be Ordained against Gods Word. Whosoever through his private judgment, willingly and purposely doth openly break the Traditions and Ceremonies of the Church, which be not repugnant to the Word of God, and be Ordained and approved by common Authority, ought to be rebuked openly, (that other may fear to do the like) as he that offendeth against the Common Order of
+<pb n="17" facs="tcp:41557:11"/> the Church, and hurteth the Authority of the Magistrate, and wound<g ref="char:EOLhyphen"/>eth the Consciences of the weak Brethren.</hi>
+               </p>
+               <p>
+                  <hi>Every particular or National Church, hath Authority to Ordain, change, and abolish Ceremonies or Rites of the Church, ordained onely by Mans Authority, so that all things be done to Edifying.</hi>
+               </p>
+            </div>
+            <div n="35" type="article">
+               <head>35. Of Homilies.</head>
+               <p>
+                  <hi>THe second Book of Homilies, the several Titles whereof we have joyned under this Article, doth contain a Godly and whol<g ref="char:EOLhyphen"/>some Doctrine, and necessary for these times, as doth the former Book of Homilies, which were set forth in the time of</hi> Edward <hi>the 6th; and therefore we judge them to be Read in Churches by the Mini<g ref="char:EOLhyphen"/>sters, diligently and distinctly, that they may be understood of the People.</hi>
+               </p>
+               <p>
+                  <list>
+                     <head>¶ Of the Names of the Homilies.</head>
+                     <item>1 <hi>OF the right use of the Church.</hi>
+                     </item>
+                     <item>2 <hi>Against Peril of Idolatry.</hi>
+                     </item>
+                     <item>3 <hi>Of repairing and keeping clean of Churches.</hi>
+                     </item>
+                     <item>4 <hi>Of good Works, first of Fasting.</hi>
+                     </item>
+                     <item>5 <hi>Against Gluttony and Drunkenness.</hi>
+                     </item>
+                     <item>6 <hi>Against excess of Apparel.</hi>
+                     </item>
+                     <item>7 <hi>Of Prayer.</hi>
+                     </item>
+                     <item>8 <hi>Of the place and time of Prayer.</hi>
+                     </item>
+                     <item>9 <hi>That Common-Prayers and Sacraments ought to be Ministred in a known Tongue.</hi>
+                     </item>
+                     <item>10 <hi>Of the Reverent Estimation of Gods Word.</hi>
+                     </item>
+                     <item>11 <hi>Of Alms-doing.</hi>
+                     </item>
+                     <item>12 <hi>Of the Nativity of Christ.</hi>
+                     </item>
+                     <item>13 <hi>Of the Passion of Christ.</hi>
+                     </item>
+                     <item>14 <hi>Of the Resurrection of Christ.</hi>
+                     </item>
+                     <item>15 <hi>Of the Worthy receiving of the Sacrament of the Body and Blood of Christ.</hi>
+                     </item>
+                     <item>16 <hi>Of the Gifts of the Holy Ghost.</hi>
+                     </item>
+                     <item>17 <hi>For the Rogation Days.</hi>
+                     </item>
+                     <item>18 <hi>Of the state of Matrmony.</hi>
+                     </item>
+                     <item>19 <hi>Of Repentance.</hi>
+                     </item>
+                     <item>20 <hi>Against Idleness.</hi>
+                     </item>
+                     <item>21 <hi>Against Rebellion.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div n="36" type="article">
+               <pb n="18" facs="tcp:41557:12"/>
+               <head>36. Of Consecration of Bishops and Ministers.</head>
+               <p>
+                  <hi>THe Book of Consecration of Arch-bishops and Bishops, and Ordering of Priests and Deacons, lately set forth in the time of</hi> Edward <hi>the Sixth, and confirmed at the same time by Authority of Parliament, doth contain all things necessary to such Consecra<g ref="char:EOLhyphen"/>tion and Ordering: neither hath it any thing that of it self is super<g ref="char:EOLhyphen"/>stitious and ungodly. And therefore whosoever are Consecrated, or Ordered according to the Rites of that Book, since the Second Year of the aforenamed King</hi> Edward, <hi>unto this time, or hereafter shall be Consecrated or Ordered according to the same Rites, we decree all such to be rightly, orderly, and lawfully Consecrated and Ordered.</hi>
+               </p>
+            </div>
+            <div n="37" type="article">
+               <head>37. <hi>Of the Civil Magistrates.</hi>
+               </head>
+               <p>THe Queens Majesty hath the chief Power in this Realm of <hi>England,</hi> and other her Dominions, unto whom the chief Government of all Estates of this Realm, whether they be Eccle<g ref="char:EOLhyphen"/>siastical or Civil, in all Causes doth appertain, and is not, nor ought to be subject to any Foreign Jurisdiction.</p>
+               <p>Whereas we Attribute to the Queens Majesty the chief Go<g ref="char:EOLhyphen"/>vernment, by which Titles we understand the Minds of some slanderous folks to be offended: We give not to our Princes the Ministring either of Gods Word, or of the Sacraments, the which thing the Injunctions also lately set forth by <hi>Elizabeth</hi> our Queen do most plainly testifie: But that onely Prerogative which we see to have been given always to all Godly Princes in holy Scriptures by God himself, <hi>that is,</hi> that they should Rule all Estates and Degrees committed to their charge by God, whe<g ref="char:EOLhyphen"/>ther they be Ecclesiastical or Temporal, and restrain with the Civil Sword the stubborn and evil doers.</p>
+               <p>The Bishop of <hi>Rome</hi> hath no Jurisdiction in this Realm of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </p>
+               <p>The Laws of this Realm may punish Christian Men with death for hainous and grievous Offences.</p>
+               <p>It is lawful for Christian Men, at the Commandment of the Magistrate, to wear Weapons, and serve in the Wars.</p>
+            </div>
+            <div n="38" type="article">
+               <pb n="19" facs="tcp:41557:12"/>
+               <head>38. <hi>Of Christian Mens Goods, which are not common.</hi>
+               </head>
+               <p>THe Riches and Goods of Christians are not common, as touching the Right, Title, and Possession of the same, as certain Anabaptists do falsly boast. Notwithstanding, every Man ought of such things as he possesseth, liberally to give Alms to the Poor, according to his ability.</p>
+            </div>
+            <div n="39" type="article">
+               <head>39. <hi>Of a Christian Mans Oath.</hi>
+               </head>
+               <p>AS we confess that vain and rash Swearing is forbidden Christian Men by our Lord Jesus Christ, and <hi>James</hi> his Apostle: So we judge that Christian Religion doth not prohi<g ref="char:EOLhyphen"/>bit, but that a Man may Swear when the Magistrate requireth, in a cause of Faith and Charity, so it be done according to the Prophets Teaching, in Justice, Judgment, and Truth.</p>
+            </div>
+            <div type="license">
+               <head>The Ratification.</head>
+               <p>THis Book of Articles before rehearsed, is again approved, and allowed to be holden and executed within the Realm, by the assent and consent of our Sovereign Lady <hi>ELIZABETH,</hi> by the Grace of God, of <hi>England, France,</hi> and <hi>Ireland</hi> Queen, Defender of the Faith, <hi>&amp;c.</hi> Which Articles were deliberately Read, and Confirmed again by the Subscription of the hand of the Arch-bishop and Bishops of the Upper House, and by the Subscription of the whole Clergy of the Neither House in their Convocation, in the Year of our Lord, 1571.</p>
+            </div>
+            <div type="table_of_contents">
+               <p>
+                  <list>
+                     <head>THE TABLE.</head>
+                     <item>1 OF Faith in the Trinity.</item>
+                     <item>2 Of Christ the Son of God.</item>
+                     <item>3 Of his going down into Hell.</item>
+                     <item>4 Of his Resurrection.</item>
+                     <item>5 Of the Holy Ghost.</item>
+                     <item>6 Of the sufficiency of the Scripture.</item>
+                     <pb n="20" facs="tcp:41557:13"/>
+                     <item> 7 Of the Old Testament.</item>
+                     <item>8 Of the three Creeds.</item>
+                     <item>9 Of Original Sin.</item>
+                     <item>10 Of Free will.</item>
+                     <item>11 Of Justification.</item>
+                     <item>12 Of Good Works.</item>
+                     <item>13 Of Works before Justification.</item>
+                     <item>14 Of Works of Supererogation.</item>
+                     <item>15 Of Christ alone without Sin.</item>
+                     <item>16 Of Sin after Baptism.</item>
+                     <item>17 Of Predestination and Election.</item>
+                     <item>18 Of obtaining Salvation by Christ.</item>
+                     <item>19 Of the Church.</item>
+                     <item>20 Of the Authority of the Church.</item>
+                     <item>21 Of the Authority of the General Councils.</item>
+                     <item>22 Of Purgatory.</item>
+                     <item>23 Of Ministring in the Congregation.</item>
+                     <item>24 Of speaking in the Congregation.</item>
+                     <item>25 Of the Sacraments.</item>
+                     <item>26 Of the worthiness of Ministers.</item>
+                     <item>27 Of Baptism.</item>
+                     <item>28 Of the Lords Supper.</item>
+                     <item>29 Of the wicked, which Eat not the Body of Christ.</item>
+                     <item>30 Of both kinds.</item>
+                     <item>31 Of Christs one Oblation.</item>
+                     <item>32 Of the Marriage of Priests.</item>
+                     <item>33 Of Excommunicate persons.</item>
+                     <item>34 Of the Traditions of the Church.</item>
+                     <item>35 Of Homilies.</item>
+                     <item>36 Of Consecration of Ministers.</item>
+                     <item>37 Of Civil Magistrates.</item>
+                     <item>38 Of Christian Mens Goods.</item>
+                     <item>39 Of a Christian Mans Oath.</item>
+                     <item>The Ratification.</item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <div type="creeds">
+            <pb n="21" facs="tcp:41557:13"/>
+            <head>
+               <hi>Here followeth the Three Creeds approved of by the Eighth Article of the Church of</hi> England, <hi>foregoing;</hi> viz. I. <hi>The Nicene Creed;</hi> II. <hi>The Creed of</hi> Atha<g ref="char:EOLhyphen"/>nasius; III. <hi>The Creed commonly called the Apostles Creed.</hi>
+            </head>
+            <div n="1" type="creed">
+               <head>I. <hi>The Nicene Creed.</hi>
+               </head>
+               <p>I Believe in one God the Father Almighty, Maker of Heaven and Earth, and of all things Visible and Invisible:</p>
+               <p>And in one Lord Jesus Christ, the only Begotten Son of God, Begotten of his Father before all Worlds. God of God, Light of Light, Very God of Very God, Begotten, not made, Being of one substance with the Father, by whom all things were made: Who for us Men, and for our Salvation came down from Heaven, and was Incarnate by the Holy Ghost of the Virgin <hi>Mary,</hi> and was made Man, and was Crucified also for us under <hi>Pontius Pilate;</hi> He suffered and was Buried, and the third Day he rose again according to the Scriptures, and as<g ref="char:EOLhyphen"/>cended into Heaven, and sitteth on the Right Hand of the Father. And he shall come again with Glory to Judge both the quick and the dead: Whose Kingdom shall have no end.</p>
+               <p>And I believe in the Holy Ghost, the Lord and giver of Life, who proceedeth from the Father and the Son, who with the Father and the Son together is Worshipped and Glorified, who spake by the Prophets. And I believe one Catholick and Apo<g ref="char:EOLhyphen"/>stolick Church. I acknowledge one Baptism for the Remission of Sins, and I look for the Resurrection of the dead, and the Life of the World to come. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="2" type="creed">
+               <pb n="22" facs="tcp:41557:14"/>
+               <head>II. Athanasius <hi>his Creed.</hi>
+               </head>
+               <p>VVHosoever will be saved: before all things it is necessary that he hold the Catholick Faith.</p>
+               <p>Which Faith, except every one do keep whole and undefiled: without doubt he shall perish Everlastingly.</p>
+               <p>And the Catholick Faith is this: that we Worship one God in Trinity, and Trinity in Unity;</p>
+               <p>Neither confounding the persons: nor dividing the substance.</p>
+               <p>For there is one person of the Father, another of the Son: and another of the Holy Ghost.</p>
+               <p>But the Godhead of the Father, of the Son, and of the Holy Ghost is all one: the Glory equal, the Majesty co-eternal.</p>
+               <p>Such as the Father is, such is the Sun: and such is the Holy Ghost.</p>
+               <p>The Father uncreate, the Son uncreate: and the Holy Ghost uncreate.</p>
+               <p>The Father Incomprehensible, the Son Incomprehensible: and the Holy Ghost Incomprehensible.</p>
+               <p>The Father Eternal, the Son Eternal: and the Holy Ghost Eternal.</p>
+               <p>And yet they are not three Eternals: but one Eternal.</p>
+               <p>As also there are not three Incomprehensibles, nor three Un<g ref="char:EOLhyphen"/>created: but one Uncreated, and one Incomprehensible.</p>
+               <p>So likewise the Father is Almighty, the Son Almighty: and the Holy Ghost Almighty.</p>
+               <p>And yet they are not three Almighties: but one Almighty.</p>
+               <p>So the Father is God, the Son is God: and the Holy Ghost is God;</p>
+               <p>And yet they are not three Gods: but one God.</p>
+               <p>So likewise the Father is the Lord, the Son Lord: and the Holy Ghost Lord;</p>
+               <p>And yet not three Lords: but one Lord.</p>
+               <p>For like as we are compelled by the Christian verity: to acknowledge every person by himself to be God and Lord;</p>
+               <p>So are we forbidden by the Catholick Religion: to say, there be three Gods, or three Lords.</p>
+               <pb n="23" facs="tcp:41557:14"/>
+               <p> The Father is made of none: neither Created, nor Begotten.</p>
+               <p>The Son is of the Father alone: not made, nor Created, but Begotten.</p>
+               <p>The Holy Ghost is of the Father, and of the Son: neither made, nor Created, nor Begotten, but proceeding.</p>
+               <p>So there is one Father, not three Fathers; one Son, not three Sons: one Holy Ghost, not three Holy Ghosts.</p>
+               <p>And in this Trinity none is afore, or after other: none is great<g ref="char:EOLhyphen"/>er, or less then another.</p>
+               <p>But the whole three Persons are co-eternal together: and co-equal.</p>
+               <p>So that in all thing, as is aforesaid: the Unity in Trinity, and the Trinity in Unity is to be Worshipped.</p>
+               <p>He therefore, that will be saved: must thus think of the Trinity.</p>
+               <p>Furthermore, it is necessary to Everlasting Salvation: that he also believe rightly the Incarnation of our Lord Jesus Christ.</p>
+               <p>For the right Faith is, that we believe and confess: that our Lord Jesus Christ, the Son of God, is God, and Man;</p>
+               <p>God of the substance of the Father, Begotten before the Worlds: and Man of the substance of his Mother, Born in the World;</p>
+               <p>Perfect God, and perfect Man: of a reasonable Soul, and humane Flesh subsisting;</p>
+               <p>Equal to the Father, as touching his Godhead: and inferiour to the Father, as touching his Manhood.</p>
+               <p>Who although he be God, and Man: yet he is not two, but one Christ;</p>
+               <p>One; not by Conversion of the Godhead into Flesh: but by taking of the Manhood into God:</p>
+               <p>One altogether; not by confusion of substance: but by Unity of person.</p>
+               <p>For as the reasonable Soul and Flesh is one Man: so God and Man is one Christ.</p>
+               <p>Who suffered for our Salvation: descended into Hell, rose again the third Day from the Dead.</p>
+               <p>He ascended into Heaven, he sitteth on the Right Hand of the Father, God Almighty: from whence he shall come to Judge the quick and the dead.</p>
+               <pb n="24" facs="tcp:41557:15"/>
+               <p> At whose coming all Men shall rise again with their Bodies: and shall give account for their own Works.</p>
+               <p>And they that have done good, shall go into Life Everlasting: and they that have done evil, into Everlasting Fire.</p>
+               <p>This is the Catholick Faith: which, except a Man believe faithfully, he cannot be saved.</p>
+               <p>Glory be to the Father, and to the Son: and to the Holy Ghost;</p>
+               <p>As it was in the beginning, is now, and ever shall be: World without end. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div n="3" type="creed">
+               <head>III. <hi>The Creed commonly called the Apostles Creed.</hi>
+               </head>
+               <p>I Believe in God the Father Almighty, Maker of Heaven and Earth.</p>
+               <p>And in Jesus Christ his onely Son our Lord, Who was Con<g ref="char:EOLhyphen"/>ceived by the Holy Ghost, Born of the Virgin <hi>Mary,</hi> Suffered under <hi>Pontius Pilate,</hi> Was Crucified, Dead, and Buried, He descended into Hell, the third Day he Rose again from the Dead, He ascended into Heaven, and sitteth on the Right Hand of God the Father Almighty; From thence he shall come to Judge the quick and the dead.</p>
+               <p>I believe in the Holy Ghost; The Holy Catholick Church; The Communion of Saints; The forgiveness of Sins; The Resurrection of the Body, and the Life Everlasting. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:41557:15"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
